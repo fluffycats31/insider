@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37216.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "insider", "insider\insider.vcxproj", "{7AD7171A-944E-B8A6-F419-F201B6AD7ADC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|x64 = Release|x64
+		Release-Symbols|x64 = Release-Symbols|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AD7171A-944E-B8A6-F419-F201B6AD7ADC}.Release|x64.ActiveCfg = Release|x64
+		{7AD7171A-944E-B8A6-F419-F201B6AD7ADC}.Release|x64.Build.0 = Release|x64
+		{7AD7171A-944E-B8A6-F419-F201B6AD7ADC}.Release|x64.Deploy.0 = Release|x64
+		{7AD7171A-944E-B8A6-F419-F201B6AD7ADC}.Release-Symbols|x64.ActiveCfg = Release-Symbols|x64
+		{7AD7171A-944E-B8A6-F419-F201B6AD7ADC}.Release-Symbols|x64.Build.0 = Release-Symbols|x64
+		{7AD7171A-944E-B8A6-F419-F201B6AD7ADC}.Release-Symbols|x64.Deploy.0 = Release-Symbols|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {890F8A4B-5B3C-4FE0-80EE-2B9961ED9ED9}
+	EndGlobalSection
+EndGlobal
